@@ -5,6 +5,7 @@ JORNADA FULLSTACK - Agosto 2022
 
     Live Dia 01
     Live Dia 02
+    Live Dia 03
 
 💻 Tecnologias
 
